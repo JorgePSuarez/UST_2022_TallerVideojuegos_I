@@ -1,0 +1,24 @@
+# Unity
+**/[Ll]ibrary/
+**/[Uu]serSettings/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+
+# Solution Files
+*.csproj
+*.unityproj
+*.slm
+*.tmp
+*.user
+*.userprefs
+
+# Visual Studio Community, VS Code and Rider cache
+**/.vs/ 
+**/.idea/
+**/.code/
+
+# Builds
+**.apk
+**.unitypackage
+**/[Bb]uild
