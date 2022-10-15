@@ -8,7 +8,7 @@
 # Solution Files
 *.csproj
 *.unityproj
-*.slm
+*.sln
 *.tmp
 *.user
 *.userprefs
